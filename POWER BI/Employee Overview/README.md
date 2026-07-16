@@ -95,5 +95,3 @@ The data was cleaned, transformed, and prepared using Microsoft Excel and Power 
 - HR Analytics
 - Problem Solving
 
-
-If you found this project helpful, feel free to ⭐ star this repository and connect with me for collaboration or feedback.
